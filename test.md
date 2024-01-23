@@ -1,4 +1,4 @@
-# lshdflhsdf
+# Read Me Generator
   
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
   
@@ -12,19 +12,19 @@
   
   
   ## Description
-  ljsfdljlsf
+  Makes a professional Read Me
   
   ## Installation
-  lsjflsjf
+  you must run the app in the terminal through Node
   
   ## Usage
-  lsjfldjslf
+  This application makes a fast and professional Read me
   
   ## Contributions
   undefined
   
   ## Test
-  lsjdfljsdf
+  we tested this application through the terminal and VS code
   
   ## gitHubLink
   check out my gitHub at : http://github.com/undefined
