@@ -21,7 +21,7 @@
   This application makes a fast and professional Read me
   
   ## Contributions
-  undefined
+  Weblinks from online license badge links
   
   ## Test
   we tested this application through the terminal and VS code
