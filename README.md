@@ -6,6 +6,6 @@ Contributing license links were used.
 Screen shots below.
 
 
-![alt text](https://github.com/JohnDennis2/ReadMeGenerator/blob/main/ReadMeScreenShot1.png)
+![ScreenShot1](https://github.com/JohnDennis2/ReadMeGenerator/blob/main/ReadMeScreenShot1.png)
 
-![alt text](https://github.com/JohnDennis2/ReadMeGenerator/edit/main/README.md#:~:text=ReadMeScreenShot1.png-,ReadMeScreenShot2,-.png)
+![ScreenShot2](https://github.com/JohnDennis2/ReadMeGenerator/blob/main/ReadMeScreenShot2.png)
