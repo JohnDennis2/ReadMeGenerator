@@ -6,3 +6,6 @@ Contributing license links were used.
 Screen shots below.
 
 
+![alt text](https://github.com/JohnDennis2/ReadMeGenerator/edit/main/README.md#:~:text=ReadMeMovieExplination.mov-,ReadMeScreenShot1,-.png)
+
+![alt text](https://github.com/JohnDennis2/ReadMeGenerator/edit/main/README.md#:~:text=ReadMeScreenShot1.png-,ReadMeScreenShot2,-.png)
