@@ -27,6 +27,6 @@
   we tested this application through the terminal and VS code
   
   ## gitHubLink
-  check out my gitHub at : http://github.com/undefined
+  check out my gitHub at : http://github.com/johnDennis2
   
   
